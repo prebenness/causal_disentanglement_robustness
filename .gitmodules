@@ -1,0 +1,15 @@
+[submodule "cama"]
+	path = cama
+	url = git@github.com:prebenness/CAMA_representations.git
+[submodule "dice"]
+	path = dice
+	url = git@github.com:prebenness/DICE_representations.git
+[submodule "causaladv"]
+	path = causaladv
+	url = git@github.com:prebenness/CausalAdv_representations.git
+[submodule "caam"]
+	path = caam
+	url = git@github.com:prebenness/CaaM_representations.git
+[submodule "metrics"]
+	path = metrics
+	url = git@github.com:prebenness/flexible_disentanglement_metrics.git
